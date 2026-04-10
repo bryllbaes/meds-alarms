@@ -1,6 +1,6 @@
 const CACHE_NAME = 'med-alarm-v1';
 const urlsToCache = [
-  '/wpa1.html',
+  '/index.html',
   '/alarm.js',
   '/manifest.json',
   '/icon-192.png',
