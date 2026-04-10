@@ -2,7 +2,7 @@
   "name": "Medicine Alarm",
   "short_name": "Med Alarm",
   "description": "Daily medicine alarms for your baby",
-  "start_url": "/wpa1.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#667eea",
